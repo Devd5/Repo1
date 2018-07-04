@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 86BF-7197
-
- Directory of C:\Users\Administrator\Desktop\Project-Git
-
-07/04/2018  03:09 PM    <DIR>          .
-07/04/2018  03:09 PM    <DIR>          ..
-07/04/2018  03:09 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  100,064,382,976 bytes free
+change 1
